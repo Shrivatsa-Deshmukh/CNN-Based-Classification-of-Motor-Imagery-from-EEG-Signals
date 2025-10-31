@@ -1,4 +1,4 @@
-# EEG-Based Classification of Hand Movements
+# CNN-Based Classification of Motor Imagery from EEG Signals
 
 This repository contains info for classifying different hand movements from EEG signals using the **EEGNet** architecture.
 
