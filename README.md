@@ -1,6 +1,6 @@
 # EEG-Based Classification of Hand Movements
 
-This repository contains code for classifying different hand movements from EEG signals using the **EEGNet** architecture.
+This repository contains info for classifying different hand movements from EEG signals using the **EEGNet** architecture.
 
 ## Resources & References
 
