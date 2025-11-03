@@ -1,6 +1,6 @@
 # CNN-Based Classification of Motor Imagery from EEG Signals
 
-This repository details an application of the EEGNet framework for the classification of discrete hand gestures based on EEG signal analysis.
+This repository provides documentation and curates external references for projects utilizing the EEGNet architecture to classify different hand movements based on electroencephalography (EEG) data.
 
 ## Resources & References
 
